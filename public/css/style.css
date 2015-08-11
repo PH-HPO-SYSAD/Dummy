@@ -1,3 +1,37 @@
-.jumbotron{
-	margin-top: 100px;
+body{
+  background-color: #333;
 }
+
+.jumbo-header{
+  margin-top: 50px;
+}
+
+
+.login-container{
+  margin-left: 800px;
+}
+
+.navtabs{
+  margin-right: 500px;
+  margin-top: -345px;
+  margin-left: 110px;
+  font-size: 20px;
+}
+.nav {
+	margin-top: -30px;
+	margin-left: 10px;
+}
+.tab-content{
+	margin-left: 10px;
+}
+
+.jumbotron{
+	background-color:;
+
+}
+.form-group{
+	color: black;
+}
+/* pincode */
+
+/* end pincode */
