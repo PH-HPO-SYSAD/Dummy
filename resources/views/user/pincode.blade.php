@@ -10,7 +10,8 @@
 	<div class="PinCode">
 		<div class="jumbotron" align="center">
 			<h4>Request Pincode</h4>
-			<p>Please Enter Pin Code to create new account</p><hr>
+			<p>Please Enter Pin Code to create new account</p>
+			<p style="color:green">Admins are only allowed to create new accounts.</p><hr>
 			<div class="form-group">
                 {!! Form::open() !!}
                     {!! Form::password('pincode', ['class' => 'form-control', 'placeholder' => 'Pin Code']) !!}
